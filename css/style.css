@@ -1,0 +1,21 @@
+main {
+    margin: 3vh;
+    padding: 10px;
+    background-color: gainsboro;
+}
+
+main * {
+    margin: 5px;
+}
+
+.bebidas {
+    border: 2px double orange;
+    margin: 5px;
+    padding: 5px;
+}
+
+.add {
+    border: 1px dotted grey;
+    margin: 5px;
+    padding: 5px;
+}
